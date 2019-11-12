@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">op.gg</string>
+    <string name="summoner_lookup_hint">Summoner Name</string>
+</resources>
